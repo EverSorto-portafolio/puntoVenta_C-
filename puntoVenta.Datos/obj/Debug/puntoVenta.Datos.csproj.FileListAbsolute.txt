@@ -1,0 +1,9 @@
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\bin\Debug\puntoVenta.Datos.dll
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\bin\Debug\puntoVenta.Datos.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\bin\Debug\puntoVenta.Entidad.dll
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\bin\Debug\puntoVenta.Entidad.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\obj\Debug\puntoVenta.Datos.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\obj\Debug\puntoVenta.Datos.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\obj\Debug\puntoVen.395E2D39.Up2Date
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\obj\Debug\puntoVenta.Datos.dll
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Datos\obj\Debug\puntoVenta.Datos.pdb

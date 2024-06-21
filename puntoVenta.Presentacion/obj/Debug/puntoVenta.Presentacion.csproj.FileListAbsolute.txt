@@ -7,3 +7,9 @@ C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\ob
 C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\obj\Debug\puntoVenta.Presentacion.csproj.CoreCompileInputs.cache
 C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\obj\Debug\puntoVenta.Presentacion.exe
 C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\obj\Debug\puntoVenta.Presentacion.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\obj\Debug\puntoVenta.Presentacion.FmCategoria.resources
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\bin\Debug\puntodeVenta.Negocio.dll
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\bin\Debug\puntoVenta.Entidad.dll
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\bin\Debug\puntodeVenta.Negocio.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\bin\Debug\puntoVenta.Entidad.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\puntoVenta\puntoVenta.Presentacion\obj\Debug\puntoVen.75D70B59.Up2Date

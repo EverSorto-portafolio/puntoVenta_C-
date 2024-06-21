@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace puntoVenta.Entidad
 {
-    public class Class1
+    public class E_categoria
     {
+        public int codigo_categoria { get; set; }
+        public string descripcionCategoria { get; set; }
+
     }
 }
