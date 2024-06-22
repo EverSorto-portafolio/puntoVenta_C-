@@ -10,23 +10,25 @@ namespace puntoVenta.Datos
 {
     public class D_categoria
     {
-        public DataTable listado_categoria(string) {
+        public DataTable listado_categoria(string ctexto) {
             SqlDataReader resultado; 
             DataTable tabla = new DataTable();
             SqlConnection SQLCon = new SqlConnection();
             try {
                 SQLCon = Conexion.getInstans().conectar();
-                SqlCommand comando = new SqlCommand("", SQLCon);
-
+                SqlCommand comando = new SqlCommand("UPS_Listado_ca", SQLCon);
+                comando.CommandType = CommandType.StoredProcedure;
+                comando.Parameters.Add("@cTexto", SqlDbType.VarChar).Value = ctexto;
+                SQLCon.Open();
+                resultado = comando.ExecuteReader();
+                tabla.Load(resultado);
             } catch (Exception ex) {
-
                 throw ex;
             }
             finally {
                 if (SQLCon.State == ConnectionState.Open) SQLCon.Close();
             }
-
-            return
+            return tabla;
         }
 
     }
